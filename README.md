@@ -24,7 +24,7 @@ O Projeto **Buzzfeed** é um clone simples de um quiz.
 ## Funcionalidade da Aplicação
 
 A aplicação exemplo consiste em um clone básico de um quiz, As funcionalidades são:
-- Lista pergunta e respostas para que o usuário selecione uma opção e ao final tem uma respota informando se o usuário é um super héroi ou um super vilão.
+- Lista pergunta e respostas para que o usuário selecione uma opção e ao final tem uma resposta informando se o usuário é um super herói ou um super vilão.
 
 ---
 ## Imagem
