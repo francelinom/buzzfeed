@@ -1,0 +1,20 @@
+{
+  "title": "Você seria um heroi ou vilão ?",
+  "Questions": [
+    {
+      "id": 1,
+      "question": "Qual super pode você escolheria ?",
+      "options": [
+        {"id": 1, "name": "Raios-Lasers", "alias": "A"},
+        {"id": 2, "name": "Voar", "alias": "B"},
+        {"id": 3, "name": "Curar feridas", "alias": "A"},
+        {"id": 4, "name": "Explodir coisas", "alias": "B"},
+        {"id": 5, "name": "Soltar fogo", "alias": "A"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria um super vilão",
+    "B": "Você muito provavelmente seria um super Herói"
+  }
+}
